@@ -1,2 +1,3 @@
 # E-commerce1
-this E-commerce website is a very beneficial  for beginners 
+This E-commerce website is a very beneficial  for beginners 
+Author - Meherunisa
